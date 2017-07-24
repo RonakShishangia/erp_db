@@ -1,2 +1,2 @@
-# erp_db
-ERP database
+# ERPO system databse
+- Complete database of ERP system.
